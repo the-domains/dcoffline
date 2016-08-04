@@ -1,14 +1,14 @@
 layout_spectrum: 0.5489739
+typography_spectrum: 0.6815075
 color:
   saturation: 0.4146455
   lightness: 0.1245336
   brandStrength: 0.4785448
   brandColors:
-    - '#00001C'
-    - '#01E2E4'
-    - '#F9D79A'
-    - '#008EA9'
-    - '#3B4568'
+    - '#EFEFE5'
+    - '#23061A'
+    - '#C46235'
+    - '#679974'
+    - '#C6192D'
   rhythmicContrast: 0.5233209
-typography_spectrum: 0.6815075
 name: DCOffline
